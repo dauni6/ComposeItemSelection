@@ -1,4 +1,7 @@
 # ComposeItemSelection
+
+https://www.youtube.com/watch?v=5T6Ty_DJ-tw
+
  Animatable을 사용하여 클릭시 scale에 따라 뷰 애니메이션 주기 <br> <br>
  
  ![samp](https://user-images.githubusercontent.com/45280927/165676003-9c072dc8-fabd-4bc2-aecd-9b3919d7b836.gif)
